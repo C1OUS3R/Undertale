@@ -27,7 +27,7 @@ execute scheduled 80t run textBox display @s 530 ""
 scoreboard players set @s afk 601
 
 scoreboard players set @s canDance 0
-scoreboard players set @s canProgress 0
+scoreboard players set @s canProgress -1
 scoreboard players set @s interact 50
 scoreboard players set #canmove cutscene 0
 
