@@ -1,0 +1,6 @@
+##
+ # fade.mcfunction
+ # 
+ #
+ # Created by .
+##

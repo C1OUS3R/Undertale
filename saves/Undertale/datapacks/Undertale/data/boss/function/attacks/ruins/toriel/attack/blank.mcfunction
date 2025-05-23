@@ -1,0 +1,6 @@
+##
+ # blank.mcfunction
+ # 
+ #
+ # Created by .
+##

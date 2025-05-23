@@ -1,0 +1,21 @@
+##
+ # 4.mcfunction
+ # 
+ #
+ # Created by .
+##
+
+scoreboard players set @s interact 4
+scoreboard players set @s canDance 0
+scoreboard players set @s canProgress 0
+
+textBox hide @s 14069002
+textBox hide @s 14069003
+
+textBox style 14069000 image texture minecraft:block/character/toriel/box/smiletalk
+textBox display @s 14069000 ""
+textBox display @s 14069002 [{"text": "* Sorry, I do not have\n  much to say.","font":"customfonts:determination"}]
+
+execute scheduled 40t if score @s interact matches 4 run textBox style 14069000 image texture minecraft:block/character/toriel/box/smile
+
+execute scheduled 40t if score @s interact matches 4 run scoreboard players set @s canProgress 1

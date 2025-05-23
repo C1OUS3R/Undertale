@@ -1,0 +1,6 @@
+##
+ # removeallscores.mcfunction
+ # 
+ #
+ # Created by .
+##
