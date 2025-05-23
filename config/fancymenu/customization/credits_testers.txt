@@ -1,0 +1,261 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = credits
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1746735700768
+  is_enabled = false
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:393c5f86-c8b1-4d4f-9d6e-c63a0f997e1a-1746735669315] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/black.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 9c525265-359c-4718-b5f8-3e2755a6ab95-1744075291925
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -71
+  y = -113
+  width = 281
+  height = 227
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442
+  [loading_requirement_container_meta:3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/white.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 098b5db5-746c-4c73-8faa-18ebfce93242-1744075291925
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -71
+  y = -111
+  width = 3
+  height = 222
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442
+  [loading_requirement_container_meta:3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/white.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 61de4cbf-a7ea-4845-9227-df07f75461e6-1744075291925
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 207
+  y = -111
+  width = 3
+  height = 222
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442
+  [loading_requirement_container_meta:3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/white.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 96356ed5-c885-491c-9676-c675ba9c277e-1744075291925
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -71
+  y = 111
+  width = 281
+  height = 3
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442
+  [loading_requirement_container_meta:3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/white.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = afe5624c-237d-4c12-a268-bfd929330dae-1744075291926
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -71
+  y = -113
+  width = 281
+  height = 3
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442
+  [loading_requirement_container_meta:3cd91493-dce7-4434-8071-7f0c990902d1-1743521073442] = [groups:][instances:]
+}
+
+element {
+  source = PLAY TESTERS !!!
+  source_mode = direct
+  scale = 1.7
+  shadow = false
+  rotation = 3.0
+  base_color = #FFFFFF
+  refresh = false
+  bouncing = false
+  element_type = splash_text
+  instance_identifier = 0ab8184b-1bab-4e12-a515-0c009e274d4a-1746677981061
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -49
+  y = -96
+  width = 236
+  height = 31
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 5cd593c3-52a3-4cee-98a5-cdbdb69bd2a9-1746677981061
+  [loading_requirement_container_meta:5cd593c3-52a3-4cee-98a5-cdbdb69bd2a9-1746677981061] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = - NoteBlockMatt%n%- MangoJuice%n%- AWMLGaming%n%- oChocolate%n%- SnaveSutit%n%- SamGladiator%n%- Sebushtin Bush%n%- Lolgan%n%- Ktsnii
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 8
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = e965ba11-f97d-4fec-ae5a-c5cb049c25af-1746678104374
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -54
+  y = -75
+  width = 144
+  height = 196
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = f589c41f-142b-4471-b452-d51669066150-1746678104374
+  [loading_requirement_container_meta:f589c41f-142b-4471-b452-d51669066150-1746678104374] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = - Tem4ik%n%- AshIsReal%n%- AnimalMace%n%- Tito_Lootlabs%n%- IamMaker%n%- Seagoleri%n%- CookieBunsquat%n%- Powpow%n%- Knarfy
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 8
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 58d31131-cac2-4fb0-bb80-619a7a7227fd-1746679483192
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 65
+  y = -75
+  width = 148
+  height = 200
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = f589c41f-142b-4471-b452-d51669066150-1746678104374
+  [loading_requirement_container_meta:f589c41f-142b-4471-b452-d51669066150-1746678104374] = [groups:][instances:]
+}
+

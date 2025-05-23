@@ -1,0 +1,188 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:block/character/napstablook/7"
+	},
+	"elements": [
+		{
+			"uuid": "71067a77-55ac-e76d-e6f0-f6426a1abd21",
+			"from": [-8.66221, 25.19809, -9.53528],
+			"to": [8.73779, 27.80809, 7.86472],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0.03779, 35.20309, -0.83528]
+			},
+			"faces": {
+				"north": {
+					"uv": [7.25, 14.75, 13.5, 15.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7.25, 14.75, 13.5, 15.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [7.25, 14.75, 13.5, 15.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7.25, 14.75, 13.5, 15.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.75, 3.75, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [7.5, 0, 3.75, 3.75],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "29fe7e9f-04ab-a690-2bb1-859fb7c3500d",
+			"from": [-5.61721, 26.50309, -6.49028],
+			"to": [5.69279, 37.81309, 4.81972],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0.03779, 17.80309, -0.83528]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 3.75, 3.75, 0],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 3.75, 3.75, 0],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 3.75, 3.75, 0],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 3.75, 3.75, 0],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [11.25, 3.75, 7.5, 0],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "4002c12d-0fb6-ccf9-b310-0a912c34add4",
+			"from": [-6.8, -3.5, -6.1],
+			"to": [7.2, 11.5, 7.9],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0.2, 8, 0.9]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.75, 9.75, 7.5, 13.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 9.75, 3.75, 13.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11.25, 9.75, 15, 13.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7.5, 9.75, 11.25, 13.5],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "36e0fbef-d254-0cc8-0bc2-765e6efc5349",
+			"from": [7.2, 11.5, 7.9],
+			"to": [-6.8, -3.5, -6.1],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0.2, 8, 0.9]
+			},
+			"faces": {
+				"north": {
+					"uv": [11.25, 13.5, 15, 9.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7.5, 13.5, 11.25, 9.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3.75, 13.5, 7.5, 9.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 13.5, 3.75, 9.75],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "8a7ee401-b7aa-ec00-b174-211eca3386d2",
+			"from": [-7.5, 8.6, -7.2],
+			"to": [7.5, 25.6, 7.8],
+			"rotation": {
+				"euler": [-4.00404, 3.03124, 0.85971],
+				"origin": [0, 17.1, 0.3]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.75, 3.75, 7.5, 8],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 3.75, 3.75, 8],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11.25, 3.75, 15, 8],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7.5, 3.75, 11.25, 8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7.5, 3.75, 3.75, 0],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"bones": [
+			{
+				"name": "napstablook",
+				"rotation": {
+					"euler": [-3.81574, 20.01897, -1.40229],
+					"origin": [0.2, 0, 0.9]
+				},
+				"children": {
+					"bones": [
+						{
+							"name": "bone",
+							"rotation": {
+								"euler": [-5.51254, 7.60358, -3.38346],
+								"origin": [0.03779, 29.33059, -0.83528]
+							},
+							"children": {
+								"elements": ["71067a77-55ac-e76d-e6f0-f6426a1abd21", "29fe7e9f-04ab-a690-2bb1-859fb7c3500d"]
+							}
+						}
+					],
+					"elements": ["4002c12d-0fb6-ccf9-b310-0a912c34add4", "36e0fbef-d254-0cc8-0bc2-765e6efc5349", "8a7ee401-b7aa-ec00-b174-211eca3386d2"]
+				}
+			}
+		]
+	},
+	"display": {}
+}

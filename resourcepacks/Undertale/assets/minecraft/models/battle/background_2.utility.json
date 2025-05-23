@@ -1,0 +1,30 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:block/props/battlebackground",
+		"particle": "minecraft:block/props/battlebackground"
+	},
+	"elements": [
+		{
+			"uuid": "46f6a3ce-e32f-dade-8575-741078f56639",
+			"from": [-40, 0, 0],
+			"to": [40, 32, 0],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 0, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [0.21687, 7.87952, 14.89157, 13.56627],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["46f6a3ce-e32f-dade-8575-741078f56639"]
+	},
+	"display": {}
+}

@@ -1,0 +1,30 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [16, 16],
+	"textures": {
+		"0": "minecraft:block/enemy/ruins/fly1",
+		"particle": "minecraft:block/enemy/ruins/fly1"
+	},
+	"elements": [
+		{
+			"uuid": "5dd46b0c-f089-df2a-f64d-276bf48a4a93",
+			"from": [-3, 8, -33.8],
+			"to": [3, 8, -27.8],
+			"rotation": {
+				"euler": [90, 0, 0],
+				"origin": [0, 8, -30.8]
+			},
+			"faces": {
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["5dd46b0c-f089-df2a-f64d-276bf48a4a93"]
+	},
+	"display": {}
+}

@@ -1,0 +1,30 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [16, 16],
+	"textures": {
+		"0": "minecraft:block/shadow",
+		"particle": "minecraft:block/shadow"
+	},
+	"elements": [
+		{
+			"uuid": "23bbd13a-0635-c859-2def-ec6acc4c518c",
+			"from": [-6, 0.1, -6],
+			"to": [6, 0.1, 6],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 0.1, 0]
+			},
+			"faces": {
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["23bbd13a-0635-c859-2def-ec6acc4c518c"]
+	},
+	"display": {}
+}

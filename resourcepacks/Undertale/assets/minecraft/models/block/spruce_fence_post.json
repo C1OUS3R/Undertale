@@ -1,0 +1,36 @@
+{
+	"credit": "Made by Clouser Studios",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/props/table_and_cheese",
+		"particle": "block/props/table_and_cheese"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 9, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [5.5, 3.25, 6.5, 5.5], "texture": "#0"},
+				"east": {"uv": [5.5, 3.25, 6.5, 5.5], "texture": "#0"},
+				"south": {"uv": [5.5, 3.25, 6.5, 5.5], "texture": "#0"},
+				"west": {"uv": [5.5, 3.25, 6.5, 5.5], "texture": "#0"},
+				"up": {"uv": [5.5, 4.5, 6.5, 5.5], "texture": "#0"},
+				"down": {"uv": [5.5, 4.5, 6.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 9, 6],
+			"to": [10, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 7]},
+			"faces": {
+				"north": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"east": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"south": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"west": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"up": {"uv": [7, 1, 8, 2], "texture": "#0"},
+				"down": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"}
+			}
+		}
+	]
+}

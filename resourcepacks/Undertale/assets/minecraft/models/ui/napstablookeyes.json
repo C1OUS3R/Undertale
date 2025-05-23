@@ -1,0 +1,23 @@
+{
+	"credit": "Made by Clouser Studios",
+	"textures": {
+		"0": "block/enemy/napstablook",
+		"particle": "block/enemy/napstablook"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"faces": {
+				"north": {"uv": [3.75, 4, 7.5, 7.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

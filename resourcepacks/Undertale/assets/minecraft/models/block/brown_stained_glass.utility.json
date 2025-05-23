@@ -1,0 +1,53 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:block/props/light",
+		"particle": "minecraft:block/props/light"
+	},
+	"elements": [
+		{
+			"uuid": "27fab9bf-d981-c97c-5421-40f5fdd49097",
+			"from": [-8, 0, -8],
+			"to": [8, 32, 8],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 0, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 4, 8],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 0, 4, 8],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 0, 4, 8],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 4, 8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 0, 4, 0.25],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["27fab9bf-d981-c97c-5421-40f5fdd49097"]
+	},
+	"display": {
+		"gui": {
+			"transform": [0, -6.25, 0],
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625],
+			"mirror": [false, false, false]
+		}
+	}
+}

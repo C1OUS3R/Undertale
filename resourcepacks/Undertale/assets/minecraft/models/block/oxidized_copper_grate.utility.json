@@ -1,0 +1,214 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "minecraft:block/props/various_decorations_8",
+		"particle": "minecraft:block/props/various_decorations_8"
+	},
+	"elements": [
+		{
+			"uuid": "a69549c9-a0ba-20ae-02e2-43b0561f17d1",
+			"from": [-4, 26, -4],
+			"to": [4, 34, 4],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [-7, 25, -7]
+			},
+			"faces": {
+				"north": {
+					"uv": [5.75, 2.5, 6.75, 3.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [5.75, 3.5, 6.75, 4.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 6, 1, 7],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6, 4.5, 7, 5.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7, 6.5, 6, 5.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4, 6.5, 3, 7.5],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "98f05600-8b86-d643-8667-c0be44ad0205",
+			"from": [-7, 0, -7],
+			"to": [7, 14, 7],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [-7, 0, -7]
+			},
+			"faces": {
+				"north": {
+					"uv": [2.25, 0, 4, 1.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2.25, 1.75, 4, 3.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2.25, 3.5, 4, 5.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [4, 0, 5.75, 1.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5.75, 3.5, 4, 1.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [5.75, 3.5, 4, 5.25],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "0f87c505-b002-0ae8-44ac-22a5600bde8d",
+			"from": [-9, 14, -9],
+			"to": [9, 16, 9],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [-7, 0, -7]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 6.5, 6.25, 6.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [6.25, 6.5, 8.5, 6.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6.75, 2.5, 9, 2.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6.75, 2.75, 9, 3],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2.25, 2.25, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2.25, 2.25, 0, 4.5],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "8d44471c-4bb5-f629-7ee8-4be9ba1e4392",
+			"from": [-6, 16, -6],
+			"to": [6, 26, 6],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [-7, 16, -7]
+			},
+			"faces": {
+				"north": {
+					"uv": [3, 5.25, 4.5, 6.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4.5, 5.25, 6, 6.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [5.75, 0, 7.25, 1.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.75, 1.25, 7.25, 2.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [1.5, 6, 0, 4.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3, 5.25, 1.5, 6.75],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"bones": [
+			{
+				"name": "group",
+				"rotation": {
+					"euler": [0, 0, 0],
+					"origin": [-7, 18, -7]
+				},
+				"children": {
+					"elements": [
+						"a69549c9-a0ba-20ae-02e2-43b0561f17d1",
+						"98f05600-8b86-d643-8667-c0be44ad0205",
+						"0f87c505-b002-0ae8-44ac-22a5600bde8d",
+						"8d44471c-4bb5-f629-7ee8-4be9ba1e4392"
+					]
+				}
+			}
+		]
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"transform": [0, 2.5, 0],
+			"rotation": [75, 45, 0],
+			"scale": [0.375, 0.375, 0.375],
+			"mirror": [false, false, false]
+		},
+		"thirdperson_lefthand": {
+			"transform": [0, 2.5, 0],
+			"rotation": [75, 45, 0],
+			"scale": [0.375, 0.375, 0.375],
+			"mirror": [false, false, false]
+		},
+		"firstperson_righthand": {
+			"transform": [0, 0, 0],
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4],
+			"mirror": [false, false, false]
+		},
+		"firstperson_lefthand": {
+			"transform": [0, 0, 0],
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4],
+			"mirror": [false, false, false]
+		},
+		"ground": {
+			"transform": [0, 3, 0],
+			"rotation": [0, 0, 0],
+			"scale": [0.25, 0.25, 0.25],
+			"mirror": [false, false, false]
+		},
+		"gui": {
+			"transform": [0, 0, 0],
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625],
+			"mirror": [false, false, false]
+		},
+		"fixed": {
+			"transform": [0, 0, 0],
+			"rotation": [0, 0, 0],
+			"scale": [0.5, 0.5, 0.5],
+			"mirror": [false, false, false]
+		}
+	}
+}

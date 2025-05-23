@@ -1,0 +1,60 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:block/props/battlebackground",
+		"particle": "minecraft:block/props/battlebackground"
+	},
+	"elements": [
+		{
+			"uuid": "46f6a3ce-e32f-dade-8575-741078f56639",
+			"from": [-241.3362, -91.65448, 51],
+			"to": [256.9362, 107.65448, 51],
+			"rotation": {
+				"euler": [90, 0, 0],
+				"origin": [7.8, 8, 51]
+			},
+			"faces": {
+				"north": {
+					"uv": [0.21687, 7.87952, 14.89157, 13.56627],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "39452efb-dd4e-ea52-6381-2c3b7ae77fa6",
+			"from": [-78.9638, -93.15448, 49.5],
+			"to": [-78.9638, 106.15448, 81.5],
+			"rotation": {
+				"euler": [90, 0, 19],
+				"origin": [-78.9638, 6.5, 51]
+			},
+			"faces": {
+				"east": {
+					"uv": [12.50603, 7.87952, 11.08434, 13.56627],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "88f7b8e9-93fe-a5c5-28b9-33e683c54976",
+			"from": [94.9638, -93.15448, 49.5],
+			"to": [94.9638, 106.15448, 81.5],
+			"rotation": {
+				"euler": [90, 0, -19],
+				"origin": [94.9638, 6.5, 51]
+			},
+			"faces": {
+				"west": {
+					"uv": [11.08434, 7.87952, 12.50603, 13.56627],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["46f6a3ce-e32f-dade-8575-741078f56639", "39452efb-dd4e-ea52-6381-2c3b7ae77fa6", "88f7b8e9-93fe-a5c5-28b9-33e683c54976"]
+	},
+	"display": {}
+}

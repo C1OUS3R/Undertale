@@ -1,0 +1,95 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [34, 51],
+	"textures": {
+		"2": "minecraft:block/props/webs"
+	},
+	"elements": [
+		{
+			"uuid": "f1f731ec-4253-4604-af13-376720ba85b4",
+			"from": [-21, 0, 3],
+			"to": [-5, 16, 3],
+			"rotation": {
+				"euler": [-24.28569, -19.95378, -6.9745],
+				"origin": [-5, 0, 3]
+			},
+			"faces": {
+				"north": {
+					"uv": [0.47059, 10.66667, 8, 15.68627],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [0.47059, 10.66667, 8, 15.68627],
+					"texture": "#2"
+				}
+			}
+		},
+		{
+			"uuid": "e4e5722e-9078-b9f6-f14c-cfa09be6f063",
+			"from": [22.5, 0.1, 1.3],
+			"to": [54.5, 32.1, 1.3],
+			"rotation": {
+				"euler": [-13.8603, 11.54158, 4.77264],
+				"origin": [38.5, 0.1, 1.3]
+			},
+			"faces": {
+				"north": {
+					"uv": [0.47059, 0.31373, 15.52941, 10.35294],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [0.47059, 0.31373, 15.52941, 10.35294],
+					"texture": "#2"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["f1f731ec-4253-4604-af13-376720ba85b4", "e4e5722e-9078-b9f6-f14c-cfa09be6f063"]
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"transform": [4.75, 2.5, 0.5],
+			"rotation": [75, 45, 0],
+			"scale": [0.375, 0.375, 0.375],
+			"mirror": [false, false, false]
+		},
+		"thirdperson_lefthand": {
+			"transform": [4.75, 2.5, 0.5],
+			"rotation": [75, 45, 0],
+			"scale": [0.375, 0.375, 0.375],
+			"mirror": [false, false, false]
+		},
+		"firstperson_righthand": {
+			"transform": [5.75, -3.75, 0],
+			"rotation": [0, 7, 0],
+			"scale": [0.4, 0.4, 0.4],
+			"mirror": [false, false, false]
+		},
+		"firstperson_lefthand": {
+			"transform": [1.5, -3.75, 0],
+			"rotation": [0, 7, 0],
+			"scale": [0.4, 0.4, 0.4],
+			"mirror": [false, false, false]
+		},
+		"ground": {
+			"transform": [0, 2.75, 2],
+			"rotation": [0, 0, 0],
+			"scale": [0.25, 0.25, 0.25],
+			"mirror": [false, false, false]
+		},
+		"gui": {
+			"transform": [-6, -2, 0],
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625],
+			"mirror": [false, false, false]
+		},
+		"fixed": {
+			"transform": [0, 0, 15.75],
+			"rotation": [0, 0, 0],
+			"scale": [2, 2, 2],
+			"mirror": [false, false, false]
+		}
+	}
+}

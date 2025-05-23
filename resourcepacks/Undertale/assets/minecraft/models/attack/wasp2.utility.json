@@ -1,0 +1,30 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [16, 16],
+	"textures": {
+		"0": "minecraft:block/enemy/ruins/wasp",
+		"particle": "minecraft:block/enemy/ruins/wasp"
+	},
+	"elements": [
+		{
+			"uuid": "5dd46b0c-f089-df2a-f64d-276bf48a4a93",
+			"from": [-7, 8, -37.8],
+			"to": [7, 8, -23.8],
+			"rotation": {
+				"euler": [90, 0, 0],
+				"origin": [0, 8, -30.8]
+			},
+			"faces": {
+				"up": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["5dd46b0c-f089-df2a-f64d-276bf48a4a93"]
+	},
+	"display": {}
+}

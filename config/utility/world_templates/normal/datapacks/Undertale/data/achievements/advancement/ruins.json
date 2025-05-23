@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Ruins"
+        },
+        "description": {
+            "text": "Part 1 of the game"
+        },
+        "icon": {
+            "id": "netherite_block",
+            "components": {
+                "custom_model_data": 15001
+            }
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/black.png"
+    },
+    "criteria": {
+        "a": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "flags": {
+                        "is_on_fire": true
+                    }
+                }
+            }
+        }
+    },
+    "parent": "achievements:undertale"
+}

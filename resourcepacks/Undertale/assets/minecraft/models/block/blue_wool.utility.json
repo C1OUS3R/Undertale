@@ -1,0 +1,826 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [16, 16],
+	"textures": {
+		"0": "minecraft:block/red_sphere"
+	},
+	"elements": [],
+	"structure": {
+		"bones": [
+			{
+				"name": "bone",
+				"rotation": {
+					"euler": [0, 0, 0],
+					"origin": [0, 10, 0]
+				},
+				"children": {
+					"meshes": ["2f0ea3f5-c9bb-eff9-b3d0-e9fbbdb9a78c"]
+				}
+			}
+		]
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -5],
+			"rotation": [0, 0, 0],
+			"scale": [1, 1, 1],
+			"mirror": [false, false, false]
+		},
+		"gui": {
+			"translation": [0, -1.25, 0],
+			"rotation": [0, 0, 0],
+			"scale": [1, 1, 1],
+			"mirror": [false, false, false]
+		}
+	},
+	"meshes": [
+		{
+			"name": "sphere",
+			"uuid": "2f0ea3f5-c9bb-eff9-b3d0-e9fbbdb9a78c",
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 10, 0]
+			},
+			"vertices": {
+				"G9fn": [0, -8, 0],
+				"sqK4": [0, 8, 0],
+				"pga5": [1.0718, 6.9282, 4],
+				"Rhxv": [1.85641, 4, 6.9282],
+				"2Z6Z": [2.14359, 0, 8],
+				"L90G": [1.85641, -4, 6.9282],
+				"TD3a": [1.0718, -6.9282, 4],
+				"ntot": [2.9282, 6.9282, 2.9282],
+				"JQrC": [5.0718, 4, 5.0718],
+				"Zw38": [5.85641, 0, 5.85641],
+				"uuM4": [5.0718, -4, 5.0718],
+				"M7va": [2.9282, -6.9282, 2.9282],
+				"Cpj8": [4, 6.9282, 1.0718],
+				"PlYg": [6.9282, 4, 1.85641],
+				"bYKk": [8, 0, 2.14359],
+				"wHws": [6.9282, -4, 1.85641],
+				"WxCi": [4, -6.9282, 1.0718],
+				"Yqij": [4, 6.9282, -1.0718],
+				"8B0X": [6.9282, 4, -1.85641],
+				"NP1s": [8, 0, -2.14359],
+				"a0fX": [6.9282, -4, -1.85641],
+				"suQL": [4, -6.9282, -1.0718],
+				"H62U": [2.9282, 6.9282, -2.9282],
+				"IQRp": [5.0718, 4, -5.0718],
+				"a4ky": [5.85641, 0, -5.85641],
+				"QV1z": [5.0718, -4, -5.0718],
+				"gS5a": [2.9282, -6.9282, -2.9282],
+				"59ON": [1.0718, 6.9282, -4],
+				"XqR0": [1.85641, 4, -6.9282],
+				"1Ezl": [2.14359, 0, -8],
+				"7v7F": [1.85641, -4, -6.9282],
+				"di5T": [1.0718, -6.9282, -4],
+				"oOBU": [-1.0718, 6.9282, -4],
+				"dylk": [-1.85641, 4, -6.9282],
+				"J05t": [-2.14359, 0, -8],
+				"xAEk": [-1.85641, -4, -6.9282],
+				"QyP9": [-1.0718, -6.9282, -4],
+				"yXMi": [-2.9282, 6.9282, -2.9282],
+				"dDvP": [-5.0718, 4, -5.0718],
+				"jkQA": [-5.85641, 0, -5.85641],
+				"sDW4": [-5.0718, -4, -5.0718],
+				"D3iG": [-2.9282, -6.9282, -2.9282],
+				"R4Vb": [-4, 6.9282, -1.0718],
+				"27Ys": [-6.9282, 4, -1.85641],
+				"zQI0": [-8, 0, -2.14359],
+				"Z8Op": [-6.9282, -4, -1.85641],
+				"pEIq": [-4, -6.9282, -1.0718],
+				"jQMH": [-4, 6.9282, 1.0718],
+				"iXgH": [-6.9282, 4, 1.85641],
+				"pCGB": [-8, 0, 2.14359],
+				"Ssfe": [-6.9282, -4, 1.85641],
+				"E1NT": [-4, -6.9282, 1.0718],
+				"IBLb": [-2.9282, 6.9282, 2.9282],
+				"SCDT": [-5.0718, 4, 5.0718],
+				"FwjL": [-5.85641, 0, 5.85641],
+				"jk4q": [-5.0718, -4, 5.0718],
+				"BBUZ": [-2.9282, -6.9282, 2.9282],
+				"WAxe": [-1.0718, 6.9282, 4],
+				"lKvd": [-1.85641, 4, 6.9282],
+				"BXK7": [-2.14359, 0, 8],
+				"Kp9G": [-1.85641, -4, 6.9282],
+				"FfVh": [-1.0718, -6.9282, 4]
+			},
+			"faces": {
+				"18UZ0hUo": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"ntot": [2.1436, 4.1412],
+						"pga5": [0, 4.1412]
+					},
+					"vertices": ["pga5", "ntot", "sqK4"],
+					"texture": "#0"
+				},
+				"PnsRAZ40": {
+					"uv": {
+						"ntot": [2.9282, 0],
+						"pga5": [0.7846, 0],
+						"JQrC": [3.7128, 4.1412],
+						"Rhxv": [0, 4.1412]
+					},
+					"vertices": ["Rhxv", "JQrC", "ntot", "pga5"],
+					"texture": "#0"
+				},
+				"JIMZw4jN": {
+					"uv": {
+						"JQrC": [4, 0],
+						"Rhxv": [0.2872, 0],
+						"Zw38": [4.2872, 4.1412],
+						"2Z6Z": [0, 4.1412]
+					},
+					"vertices": ["2Z6Z", "Zw38", "JQrC", "Rhxv"],
+					"texture": "#0"
+				},
+				"od2KLn58": {
+					"uv": {
+						"Zw38": [4.2872, 0],
+						"2Z6Z": [0, 0],
+						"uuM4": [4, 4.1412],
+						"L90G": [0.2872, 4.1412]
+					},
+					"vertices": ["L90G", "uuM4", "Zw38", "2Z6Z"],
+					"texture": "#0"
+				},
+				"F2HbmZRU": {
+					"uv": {
+						"uuM4": [3.7128, 0],
+						"L90G": [0, 0],
+						"M7va": [2.9282, 4.1412],
+						"TD3a": [0.7846, 4.1412]
+					},
+					"vertices": ["TD3a", "M7va", "uuM4", "L90G"],
+					"texture": "#0"
+				},
+				"NMc1l6rN": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"TD3a": [0, 0],
+						"M7va": [2.1436, 0]
+					},
+					"vertices": ["M7va", "TD3a", "G9fn"],
+					"texture": "#0"
+				},
+				"165VCs61": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"Cpj8": [2.1436, 4.1412],
+						"ntot": [0, 4.1412]
+					},
+					"vertices": ["ntot", "Cpj8", "sqK4"],
+					"texture": "#0"
+				},
+				"6z6gMWV0": {
+					"uv": {
+						"Cpj8": [2.9282, 0],
+						"ntot": [0.7846, 0],
+						"PlYg": [3.7128, 4.1412],
+						"JQrC": [0, 4.1412]
+					},
+					"vertices": ["JQrC", "PlYg", "Cpj8", "ntot"],
+					"texture": "#0"
+				},
+				"AD1BT6Ti": {
+					"uv": {
+						"PlYg": [4, 0],
+						"JQrC": [0.2872, 0],
+						"bYKk": [4.2872, 4.1412],
+						"Zw38": [0, 4.1412]
+					},
+					"vertices": ["Zw38", "bYKk", "PlYg", "JQrC"],
+					"texture": "#0"
+				},
+				"JAAVCgO3": {
+					"uv": {
+						"bYKk": [4.2872, 0],
+						"Zw38": [0, 0],
+						"wHws": [4, 4.1412],
+						"uuM4": [0.2872, 4.1412]
+					},
+					"vertices": ["uuM4", "wHws", "bYKk", "Zw38"],
+					"texture": "#0"
+				},
+				"5qpWpbM9": {
+					"uv": {
+						"wHws": [3.7128, 0],
+						"uuM4": [0, 0],
+						"WxCi": [2.9282, 4.1412],
+						"M7va": [0.7846, 4.1412]
+					},
+					"vertices": ["M7va", "WxCi", "wHws", "uuM4"],
+					"texture": "#0"
+				},
+				"onQ94oWi": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"M7va": [0, 0],
+						"WxCi": [2.1436, 0]
+					},
+					"vertices": ["WxCi", "M7va", "G9fn"],
+					"texture": "#0"
+				},
+				"oiNBlr08": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"Yqij": [2.1436, 4.1412],
+						"Cpj8": [0, 4.1412]
+					},
+					"vertices": ["Cpj8", "Yqij", "sqK4"],
+					"texture": "#0"
+				},
+				"l7nKd5vE": {
+					"uv": {
+						"Yqij": [2.9282, 0],
+						"Cpj8": [0.7846, 0],
+						"8B0X": [3.7128, 4.1412],
+						"PlYg": [0, 4.1412]
+					},
+					"vertices": ["PlYg", "8B0X", "Yqij", "Cpj8"],
+					"texture": "#0"
+				},
+				"hGubUAT5": {
+					"uv": {
+						"8B0X": [4, 0],
+						"PlYg": [0.2872, 0],
+						"NP1s": [4.2872, 4.1412],
+						"bYKk": [0, 4.1412]
+					},
+					"vertices": ["bYKk", "NP1s", "8B0X", "PlYg"],
+					"texture": "#0"
+				},
+				"ouYPjvE5": {
+					"uv": {
+						"NP1s": [4.2872, 0],
+						"bYKk": [0, 0],
+						"a0fX": [4, 4.1412],
+						"wHws": [0.2872, 4.1412]
+					},
+					"vertices": ["wHws", "a0fX", "NP1s", "bYKk"],
+					"texture": "#0"
+				},
+				"rF9S7k7K": {
+					"uv": {
+						"a0fX": [3.7128, 0],
+						"wHws": [0, 0],
+						"suQL": [2.9282, 4.1412],
+						"WxCi": [0.7846, 4.1412]
+					},
+					"vertices": ["WxCi", "suQL", "a0fX", "wHws"],
+					"texture": "#0"
+				},
+				"Z0tzDch7": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"WxCi": [0, 0],
+						"suQL": [2.1436, 0]
+					},
+					"vertices": ["suQL", "WxCi", "G9fn"],
+					"texture": "#0"
+				},
+				"6LPOLmpm": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"H62U": [2.1436, 4.1412],
+						"Yqij": [0, 4.1412]
+					},
+					"vertices": ["Yqij", "H62U", "sqK4"],
+					"texture": "#0"
+				},
+				"22wfy5ZN": {
+					"uv": {
+						"H62U": [2.9282, 0],
+						"Yqij": [0.7846, 0],
+						"IQRp": [3.7128, 4.1412],
+						"8B0X": [0, 4.1412]
+					},
+					"vertices": ["8B0X", "IQRp", "H62U", "Yqij"],
+					"texture": "#0"
+				},
+				"dIpZotAE": {
+					"uv": {
+						"IQRp": [4, 0],
+						"8B0X": [0.2872, 0],
+						"a4ky": [4.2872, 4.1412],
+						"NP1s": [0, 4.1412]
+					},
+					"vertices": ["NP1s", "a4ky", "IQRp", "8B0X"],
+					"texture": "#0"
+				},
+				"ZrMtg0mz": {
+					"uv": {
+						"a4ky": [4.2872, 0],
+						"NP1s": [0, 0],
+						"QV1z": [4, 4.1412],
+						"a0fX": [0.2872, 4.1412]
+					},
+					"vertices": ["a0fX", "QV1z", "a4ky", "NP1s"],
+					"texture": "#0"
+				},
+				"9sVEI8cv": {
+					"uv": {
+						"QV1z": [3.7128, 0],
+						"a0fX": [0, 0],
+						"gS5a": [2.9282, 4.1412],
+						"suQL": [0.7846, 4.1412]
+					},
+					"vertices": ["suQL", "gS5a", "QV1z", "a0fX"],
+					"texture": "#0"
+				},
+				"fBwRJJJC": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"suQL": [0, 0],
+						"gS5a": [2.1436, 0]
+					},
+					"vertices": ["gS5a", "suQL", "G9fn"],
+					"texture": "#0"
+				},
+				"fxMb8czy": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"59ON": [2.1436, 4.1412],
+						"H62U": [0, 4.1412]
+					},
+					"vertices": ["H62U", "59ON", "sqK4"],
+					"texture": "#0"
+				},
+				"WwVy9Zb3": {
+					"uv": {
+						"59ON": [2.9282, 0],
+						"H62U": [0.7846, 0],
+						"XqR0": [3.7128, 4.1412],
+						"IQRp": [0, 4.1412]
+					},
+					"vertices": ["IQRp", "XqR0", "59ON", "H62U"],
+					"texture": "#0"
+				},
+				"RD2KHQ1V": {
+					"uv": {
+						"XqR0": [4, 0],
+						"IQRp": [0.2872, 0],
+						"1Ezl": [4.2872, 4.1412],
+						"a4ky": [0, 4.1412]
+					},
+					"vertices": ["a4ky", "1Ezl", "XqR0", "IQRp"],
+					"texture": "#0"
+				},
+				"uOm06NIz": {
+					"uv": {
+						"1Ezl": [4.2872, 0],
+						"a4ky": [0, 0],
+						"7v7F": [4, 4.1412],
+						"QV1z": [0.2872, 4.1412]
+					},
+					"vertices": ["QV1z", "7v7F", "1Ezl", "a4ky"],
+					"texture": "#0"
+				},
+				"rXEvy68p": {
+					"uv": {
+						"7v7F": [3.7128, 0],
+						"QV1z": [0, 0],
+						"di5T": [2.9282, 4.1412],
+						"gS5a": [0.7846, 4.1412]
+					},
+					"vertices": ["gS5a", "di5T", "7v7F", "QV1z"],
+					"texture": "#0"
+				},
+				"HkrEaBCR": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"gS5a": [0, 0],
+						"di5T": [2.1436, 0]
+					},
+					"vertices": ["di5T", "gS5a", "G9fn"],
+					"texture": "#0"
+				},
+				"9ZlMLerF": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"oOBU": [2.1436, 4.1412],
+						"59ON": [0, 4.1412]
+					},
+					"vertices": ["59ON", "oOBU", "sqK4"],
+					"texture": "#0"
+				},
+				"uRaxDbus": {
+					"uv": {
+						"oOBU": [2.9282, 0],
+						"59ON": [0.7846, 0],
+						"dylk": [3.7128, 4.1412],
+						"XqR0": [0, 4.1412]
+					},
+					"vertices": ["XqR0", "dylk", "oOBU", "59ON"],
+					"texture": "#0"
+				},
+				"6sCmjyfl": {
+					"uv": {
+						"dylk": [4, 0],
+						"XqR0": [0.2872, 0],
+						"J05t": [4.2872, 4.1412],
+						"1Ezl": [0, 4.1412]
+					},
+					"vertices": ["1Ezl", "J05t", "dylk", "XqR0"],
+					"texture": "#0"
+				},
+				"vbmkdM8o": {
+					"uv": {
+						"J05t": [4.2872, 0],
+						"1Ezl": [0, 0],
+						"xAEk": [4, 4.1412],
+						"7v7F": [0.2872, 4.1412]
+					},
+					"vertices": ["7v7F", "xAEk", "J05t", "1Ezl"],
+					"texture": "#0"
+				},
+				"tHk34erq": {
+					"uv": {
+						"xAEk": [3.7128, 0],
+						"7v7F": [0, 0],
+						"QyP9": [2.9282, 4.1412],
+						"di5T": [0.7846, 4.1412]
+					},
+					"vertices": ["di5T", "QyP9", "xAEk", "7v7F"],
+					"texture": "#0"
+				},
+				"Ssi796xk": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"di5T": [0, 0],
+						"QyP9": [2.1436, 0]
+					},
+					"vertices": ["QyP9", "di5T", "G9fn"],
+					"texture": "#0"
+				},
+				"sg837V3N": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"yXMi": [2.1436, 4.1412],
+						"oOBU": [0, 4.1412]
+					},
+					"vertices": ["oOBU", "yXMi", "sqK4"],
+					"texture": "#0"
+				},
+				"DrnNN5PA": {
+					"uv": {
+						"yXMi": [2.9282, 0],
+						"oOBU": [0.7846, 0],
+						"dDvP": [3.7128, 4.1412],
+						"dylk": [0, 4.1412]
+					},
+					"vertices": ["dylk", "dDvP", "yXMi", "oOBU"],
+					"texture": "#0"
+				},
+				"1iBQBhnn": {
+					"uv": {
+						"dDvP": [4, 0],
+						"dylk": [0.2872, 0],
+						"jkQA": [4.2872, 4.1412],
+						"J05t": [0, 4.1412]
+					},
+					"vertices": ["J05t", "jkQA", "dDvP", "dylk"],
+					"texture": "#0"
+				},
+				"VRfLssj9": {
+					"uv": {
+						"jkQA": [4.2872, 0],
+						"J05t": [0, 0],
+						"sDW4": [4, 4.1412],
+						"xAEk": [0.2872, 4.1412]
+					},
+					"vertices": ["xAEk", "sDW4", "jkQA", "J05t"],
+					"texture": "#0"
+				},
+				"8astLiuF": {
+					"uv": {
+						"sDW4": [3.7128, 0],
+						"xAEk": [0, 0],
+						"D3iG": [2.9282, 4.1412],
+						"QyP9": [0.7846, 4.1412]
+					},
+					"vertices": ["QyP9", "D3iG", "sDW4", "xAEk"],
+					"texture": "#0"
+				},
+				"4ztRiUQr": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"QyP9": [0, 0],
+						"D3iG": [2.1436, 0]
+					},
+					"vertices": ["D3iG", "QyP9", "G9fn"],
+					"texture": "#0"
+				},
+				"uPvDDKXO": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"R4Vb": [2.1436, 4.1412],
+						"yXMi": [0, 4.1412]
+					},
+					"vertices": ["yXMi", "R4Vb", "sqK4"],
+					"texture": "#0"
+				},
+				"0W6se8aZ": {
+					"uv": {
+						"R4Vb": [2.9282, 0],
+						"yXMi": [0.7846, 0],
+						"27Ys": [3.7128, 4.1412],
+						"dDvP": [0, 4.1412]
+					},
+					"vertices": ["dDvP", "27Ys", "R4Vb", "yXMi"],
+					"texture": "#0"
+				},
+				"UJPhIDcg": {
+					"uv": {
+						"27Ys": [4, 0],
+						"dDvP": [0.2872, 0],
+						"zQI0": [4.2872, 4.1412],
+						"jkQA": [0, 4.1412]
+					},
+					"vertices": ["jkQA", "zQI0", "27Ys", "dDvP"],
+					"texture": "#0"
+				},
+				"nPQkyslD": {
+					"uv": {
+						"zQI0": [4.2872, 0],
+						"jkQA": [0, 0],
+						"Z8Op": [4, 4.1412],
+						"sDW4": [0.2872, 4.1412]
+					},
+					"vertices": ["sDW4", "Z8Op", "zQI0", "jkQA"],
+					"texture": "#0"
+				},
+				"twxDLwI7": {
+					"uv": {
+						"Z8Op": [3.7128, 0],
+						"sDW4": [0, 0],
+						"pEIq": [2.9282, 4.1412],
+						"D3iG": [0.7846, 4.1412]
+					},
+					"vertices": ["D3iG", "pEIq", "Z8Op", "sDW4"],
+					"texture": "#0"
+				},
+				"bh9izkCj": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"D3iG": [0, 0],
+						"pEIq": [2.1436, 0]
+					},
+					"vertices": ["pEIq", "D3iG", "G9fn"],
+					"texture": "#0"
+				},
+				"SchiKrEB": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"jQMH": [2.1436, 4.1412],
+						"R4Vb": [0, 4.1412]
+					},
+					"vertices": ["R4Vb", "jQMH", "sqK4"],
+					"texture": "#0"
+				},
+				"BuCHgJP1": {
+					"uv": {
+						"jQMH": [2.9282, 0],
+						"R4Vb": [0.7846, 0],
+						"iXgH": [3.7128, 4.1412],
+						"27Ys": [0, 4.1412]
+					},
+					"vertices": ["27Ys", "iXgH", "jQMH", "R4Vb"],
+					"texture": "#0"
+				},
+				"DXeaRBmm": {
+					"uv": {
+						"iXgH": [4, 0],
+						"27Ys": [0.2872, 0],
+						"pCGB": [4.2872, 4.1412],
+						"zQI0": [0, 4.1412]
+					},
+					"vertices": ["zQI0", "pCGB", "iXgH", "27Ys"],
+					"texture": "#0"
+				},
+				"4LyzcweR": {
+					"uv": {
+						"pCGB": [4.2872, 0],
+						"zQI0": [0, 0],
+						"Ssfe": [4, 4.1412],
+						"Z8Op": [0.2872, 4.1412]
+					},
+					"vertices": ["Z8Op", "Ssfe", "pCGB", "zQI0"],
+					"texture": "#0"
+				},
+				"DSr76ePZ": {
+					"uv": {
+						"Ssfe": [3.7128, 0],
+						"Z8Op": [0, 0],
+						"E1NT": [2.9282, 4.1412],
+						"pEIq": [0.7846, 4.1412]
+					},
+					"vertices": ["pEIq", "E1NT", "Ssfe", "Z8Op"],
+					"texture": "#0"
+				},
+				"CzoGFOMw": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"pEIq": [0, 0],
+						"E1NT": [2.1436, 0]
+					},
+					"vertices": ["E1NT", "pEIq", "G9fn"],
+					"texture": "#0"
+				},
+				"CQirWJee": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"IBLb": [2.1436, 4.1412],
+						"jQMH": [0, 4.1412]
+					},
+					"vertices": ["jQMH", "IBLb", "sqK4"],
+					"texture": "#0"
+				},
+				"pz3CDm6u": {
+					"uv": {
+						"IBLb": [2.9282, 0],
+						"jQMH": [0.7846, 0],
+						"SCDT": [3.7128, 4.1412],
+						"iXgH": [0, 4.1412]
+					},
+					"vertices": ["iXgH", "SCDT", "IBLb", "jQMH"],
+					"texture": "#0"
+				},
+				"p3OoA8AC": {
+					"uv": {
+						"SCDT": [4, 0],
+						"iXgH": [0.2872, 0],
+						"FwjL": [4.2872, 4.1412],
+						"pCGB": [0, 4.1412]
+					},
+					"vertices": ["pCGB", "FwjL", "SCDT", "iXgH"],
+					"texture": "#0"
+				},
+				"m2mnsRnu": {
+					"uv": {
+						"FwjL": [4.2872, 0],
+						"pCGB": [0, 0],
+						"jk4q": [4, 4.1412],
+						"Ssfe": [0.2872, 4.1412]
+					},
+					"vertices": ["Ssfe", "jk4q", "FwjL", "pCGB"],
+					"texture": "#0"
+				},
+				"rMsVSaCr": {
+					"uv": {
+						"jk4q": [3.7128, 0],
+						"Ssfe": [0, 0],
+						"BBUZ": [2.9282, 4.1412],
+						"E1NT": [0.7846, 4.1412]
+					},
+					"vertices": ["E1NT", "BBUZ", "jk4q", "Ssfe"],
+					"texture": "#0"
+				},
+				"Rg2OapZx": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"E1NT": [0, 0],
+						"BBUZ": [2.1436, 0]
+					},
+					"vertices": ["BBUZ", "E1NT", "G9fn"],
+					"texture": "#0"
+				},
+				"yp5yMp0Z": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"WAxe": [2.1436, 4.1412],
+						"IBLb": [0, 4.1412]
+					},
+					"vertices": ["IBLb", "WAxe", "sqK4"],
+					"texture": "#0"
+				},
+				"TbVYls6u": {
+					"uv": {
+						"WAxe": [2.9282, 0],
+						"IBLb": [0.7846, 0],
+						"lKvd": [3.7128, 4.1412],
+						"SCDT": [0, 4.1412]
+					},
+					"vertices": ["SCDT", "lKvd", "WAxe", "IBLb"],
+					"texture": "#0"
+				},
+				"9XVRZOak": {
+					"uv": {
+						"lKvd": [4, 0],
+						"SCDT": [0.2872, 0],
+						"BXK7": [4.2872, 4.1412],
+						"FwjL": [0, 4.1412]
+					},
+					"vertices": ["FwjL", "BXK7", "lKvd", "SCDT"],
+					"texture": "#0"
+				},
+				"CgrP3Un5": {
+					"uv": {
+						"BXK7": [4.2872, 0],
+						"FwjL": [0, 0],
+						"Kp9G": [4, 4.1412],
+						"jk4q": [0.2872, 4.1412]
+					},
+					"vertices": ["jk4q", "Kp9G", "BXK7", "FwjL"],
+					"texture": "#0"
+				},
+				"5sgM7cuY": {
+					"uv": {
+						"Kp9G": [3.7128, 0],
+						"jk4q": [0, 0],
+						"FfVh": [2.9282, 4.1412],
+						"BBUZ": [0.7846, 4.1412]
+					},
+					"vertices": ["BBUZ", "FfVh", "Kp9G", "jk4q"],
+					"texture": "#0"
+				},
+				"rXoAs4zF": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"BBUZ": [0, 0],
+						"FfVh": [2.1436, 0]
+					},
+					"vertices": ["FfVh", "BBUZ", "G9fn"],
+					"texture": "#0"
+				},
+				"zzsZ7zbD": {
+					"uv": {
+						"sqK4": [1.0718, 0],
+						"pga5": [2.1436, 4.1412],
+						"WAxe": [0, 4.1412]
+					},
+					"vertices": ["WAxe", "pga5", "sqK4"],
+					"texture": "#0"
+				},
+				"MtN2R6tO": {
+					"uv": {
+						"pga5": [2.9282, 0],
+						"WAxe": [0.7846, 0],
+						"Rhxv": [3.7128, 4.1412],
+						"lKvd": [0, 4.1412]
+					},
+					"vertices": ["lKvd", "Rhxv", "pga5", "WAxe"],
+					"texture": "#0"
+				},
+				"IcWEbGOP": {
+					"uv": {
+						"Rhxv": [4, 0],
+						"lKvd": [0.2872, 0],
+						"2Z6Z": [4.2872, 4.1412],
+						"BXK7": [0, 4.1412]
+					},
+					"vertices": ["BXK7", "2Z6Z", "Rhxv", "lKvd"],
+					"texture": "#0"
+				},
+				"8FOmPA91": {
+					"uv": {
+						"2Z6Z": [4.2872, 0],
+						"BXK7": [0, 0],
+						"L90G": [4, 4.1412],
+						"Kp9G": [0.2872, 4.1412]
+					},
+					"vertices": ["Kp9G", "L90G", "2Z6Z", "BXK7"],
+					"texture": "#0"
+				},
+				"8ZhRxChO": {
+					"uv": {
+						"L90G": [3.7128, 0],
+						"Kp9G": [0, 0],
+						"TD3a": [2.9282, 4.1412],
+						"FfVh": [0.7846, 4.1412]
+					},
+					"vertices": ["FfVh", "TD3a", "L90G", "Kp9G"],
+					"texture": "#0"
+				},
+				"6iY5imdz": {
+					"uv": {
+						"G9fn": [1.0718, 4.1412],
+						"FfVh": [0, 0],
+						"TD3a": [2.1436, 0]
+					},
+					"vertices": ["TD3a", "FfVh", "G9fn"],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"animations": [
+		{
+			"name": "loop",
+			"animation_length": 0.5,
+			"loop_mode": "loop",
+			"loop_delay": "0",
+			"bones": {
+				"bone": {
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.25": [1, 0.4, 1],
+						"0.5": [1, 1, 1]
+					}
+				}
+			}
+		}
+	]
+}

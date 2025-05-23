@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "You Monster"
+        },
+        "description": {
+            "text": "Take 4 Monster Candies"
+        },
+        "icon": {
+            "id": "netherite_block",
+            "components": {
+                "custom_model_data": 15002
+            }
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "a": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "flags": {
+                        "is_on_fire": true
+                    }
+                }
+            }
+        }
+    },
+    "parent": "achievements:ruins"
+}

@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Undertale"
+        },
+        "description": {
+            "text": "All Undertale Achievements"
+        },
+        "icon": {
+            "id": "netherite_block",
+            "components": {
+                "custom_model_data": 39
+            }
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/black.png"
+    },
+    "criteria": {
+        "a": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "flags": {
+                        "is_on_fire": true
+                    }
+                }
+            }
+        }
+    }
+}

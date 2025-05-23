@@ -1,0 +1,290 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [80, 80],
+	"textures": {
+		"0": "minecraft:block/enemy/vegetoid_spared"
+	},
+	"elements": [
+		{
+			"uuid": "0ec22660-e09d-df0b-fbb5-a51ff77c82ad",
+			"from": [-4.225, -0.0125, -3.225],
+			"to": [4.225, 5.1875, 3.925],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, -5.2125, 1.65]
+			},
+			"faces": {
+				"north": {
+					"uv": [2.6, 9.2, 5.2, 10.8],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0.4, 9.2, 2.6, 10.8],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [7.4, 9.2, 10, 10.8],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.2, 9.2, 7.4, 10.8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5.2, 9.2, 2.6, 7],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [7.8, 7, 5.2, 9.2],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "10201ca8-da9e-f7e3-d6de-e83b8cdb1baa",
+			"from": [-5.525, 5.1875, -3.875],
+			"to": [5.525, 15.5875, 4.575],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 5.1875, 1.65]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.4, 3.4, 6.8, 6.6],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0.8, 3.4, 3.4, 6.6],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9.4, 3.4, 12.8, 6.6],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6.8, 3.4, 9.4, 6.6],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6.8, 3.4, 3.4, 0.8],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [10.2, 0.8, 6.8, 3.4],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "d7d3defc-0037-d40d-d0d9-a20982cf53e9",
+			"from": [-5.525, 15.5875, 0.35],
+			"to": [5.525, 26.6375, 0.35],
+			"rotation": {
+				"euler": [0, -45, 0],
+				"origin": [0, 15.5875, 0.35]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 11, 3.4, 14.4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 11, 0, 14.4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3.4, 11, 0, 14.4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.4, 11, 3.4, 14.4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.4, 11, 0, 11],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.8, 11, 3.4, 11],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "2639a4a6-a592-e2c2-cff9-76847f1ae81c",
+			"from": [-5.525, 15.5875, 0.35],
+			"to": [5.525, 26.6375, 0.35],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 15.5875, 0.35]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.4, 11, 6.8, 14.4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 11, 0, 14.4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3.4, 11, 6.8, 14.4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.4, 11, 3.4, 14.4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.4, 11, 0, 11],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.8, 11, 3.4, 11],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "16c0d38a-fd7b-5802-50e8-b87a47b6ef5d",
+			"from": [-11.05, 15.5875, -5.175],
+			"to": [0, 15.5875, 5.875],
+			"rotation": {
+				"euler": [0, 0, -45],
+				"origin": [0, 15.5875, 0.35]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.4, 11, 3.4, 14.4],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [6.8, 11, 3.4, 11],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 11, 0, 14.4],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.4, 11, 0, 11],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.4, 11, 6.8, 14.4],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.4, 11, 6.8, 14.4],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "665da46f-40e7-4ea4-2a3d-24a4138bfb97",
+			"from": [0, 15.5875, -5.175],
+			"to": [11.05, 15.5875, 5.875],
+			"rotation": {
+				"euler": [0, 0, 45],
+				"origin": [0, 15.5875, 0.35]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.4, 14.4, 3.4, 11],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 11, 3.4, 11],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 14.4, 0, 11],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.4, 11, 6.8, 11],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.4, 14.4, 6.8, 11],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.4, 14.4, 6.8, 11],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "a60dc63e-d9ee-4b1f-2f1b-af80370c5d5f",
+			"from": [0, 15.5875, -3.875],
+			"to": [0, 26.6375, 7.175],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 15.5875, 1.65]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 11, 0, 14.4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [3.4, 11, 6.8, 14.4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3.4, 11, 3.4, 14.4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.4, 11, 6.8, 14.4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.4, 11, 0, 11],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.8, 11, 3.4, 11],
+					"rotation": 90,
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"bones": [
+			{
+				"name": "bone",
+				"rotation": {
+					"euler": [0, 0, 0],
+					"origin": [0, 0, 1]
+				},
+				"children": {
+					"elements": [
+						"0ec22660-e09d-df0b-fbb5-a51ff77c82ad",
+						"10201ca8-da9e-f7e3-d6de-e83b8cdb1baa",
+						"d7d3defc-0037-d40d-d0d9-a20982cf53e9",
+						"2639a4a6-a592-e2c2-cff9-76847f1ae81c",
+						"16c0d38a-fd7b-5802-50e8-b87a47b6ef5d",
+						"665da46f-40e7-4ea4-2a3d-24a4138bfb97",
+						"a60dc63e-d9ee-4b1f-2f1b-af80370c5d5f"
+					]
+				}
+			}
+		]
+	},
+	"display": {}
+}

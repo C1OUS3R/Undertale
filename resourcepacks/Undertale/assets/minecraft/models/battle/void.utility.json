@@ -1,0 +1,112 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [16, 16],
+	"textures": {
+		"0": "minecraft:block/props/battlemodevoid",
+		"particle": "minecraft:block/props/battlemodevoid"
+	},
+	"elements": [
+		{
+			"uuid": "4633a692-72b0-4019-ea73-0f0408c18ead",
+			"from": [-25, 0, -25],
+			"to": [25, 0, 25],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 0, 0]
+			},
+			"faces": {
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "d60bd810-2eab-b23d-3ce9-3cec1e2e83ae",
+			"from": [-25, -1, 24],
+			"to": [25, 17, 24],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 0, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "48463050-898b-f609-b2db-7606d6565b0c",
+			"from": [-25, -1, -24],
+			"to": [25, 17, -24],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 0, -48]
+			},
+			"faces": {
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "6c9bd8c4-16cf-fa93-fa66-c088ded7a937",
+			"from": [-25, -1, -24],
+			"to": [25, 17, -24],
+			"rotation": {
+				"euler": [0, -90, 0],
+				"origin": [0, 8, 0]
+			},
+			"faces": {
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "67c9e918-7b8c-b57a-9784-4089264808b3",
+			"from": [-25, -1, 24],
+			"to": [25, 17, 24],
+			"rotation": {
+				"euler": [0, -90, 0],
+				"origin": [0, 8, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "72fb7296-29e9-3ee6-1f40-12be960ea062",
+			"from": [-25, 16, -25],
+			"to": [25, 16, 25],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 16, 0]
+			},
+			"faces": {
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": [
+			"4633a692-72b0-4019-ea73-0f0408c18ead",
+			"d60bd810-2eab-b23d-3ce9-3cec1e2e83ae",
+			"48463050-898b-f609-b2db-7606d6565b0c",
+			"6c9bd8c4-16cf-fa93-fa66-c088ded7a937",
+			"67c9e918-7b8c-b57a-9784-4089264808b3",
+			"72fb7296-29e9-3ee6-1f40-12be960ea062"
+		]
+	},
+	"display": {}
+}

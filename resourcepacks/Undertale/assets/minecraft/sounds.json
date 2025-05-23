@@ -1,0 +1,2332 @@
+{
+	"music.000": {
+		"sounds": [
+			"ost/000"
+		],
+		"subtitle": "subtitles.music.000.but_nobody_came"
+	},
+	"music.001": {
+		"sounds": [
+			"ost/001"
+		],
+		"subtitle": "subtitles.music.001.once_upon_a_time"
+	},
+	"music.002": {
+		"sounds": [
+			"ost/002"
+		],
+		"subtitle": "subtitles.music.002.start_menu"
+	},
+	"music.003": {
+		"sounds": [
+			"ost/003"
+		],
+		"subtitle": "subtitles.music.003.your_best_friend"
+	},
+	"music.004": {
+		"sounds": [
+			"ost/004"
+		],
+		"subtitle": "subtitles.music.004.fallen_down"
+	},
+	"music.005": {
+		"sounds": [
+			"ost/005"
+		],
+		"subtitle": "subtitles.music.005.ruins"
+	},
+	"music.006": {
+		"sounds": [
+			"ost/006"
+		],
+		"subtitle": "subtitles.music.006.uwa_so_temperate"
+	},
+	"music.007": {
+		"sounds": [
+			"ost/007"
+		],
+		"subtitle": "subtitles.music.007.anticipation"
+	},
+	"music.008": {
+		"sounds": [
+			"ost/008"
+		],
+		"subtitle": "subtitles.music.008.unnecessary_tension"
+	},
+	"music.009": {
+		"sounds": [
+			"ost/009"
+		],
+		"subtitle": "subtitles.music.009.enemy_approaching"
+	},
+	"music.010": {
+		"sounds": [
+			"ost/010"
+		],
+		"subtitle": "subtitles.music.010.ghost_fight"
+	},
+	"music.011": {
+		"sounds": [
+			"ost/011"
+		],
+		"subtitle": "subtitles.music.011.determination"
+	},
+	"music.012": {
+		"sounds": [
+			"ost/012"
+		],
+		"subtitle": "subtitles.music.012.home"
+	},
+	"music.013": {
+		"sounds": [
+			"ost/013"
+		],
+		"subtitle": "subtitles.music.013.home_music_box"
+	},
+	"music.014": {
+		"sounds": [
+			"ost/014"
+		],
+		"subtitle": "subtitles.music.014.heartache"
+	},
+	
+	
+	
+	
+	
+	
+	"sfx.alert": {
+		"sounds": [
+			"sfx/alert"
+		],
+		"subtitle": "subtitles.sfx.alert"
+	},
+	"sfx.damage": {
+		"sounds": [
+			"sfx/damage"
+		],
+		"subtitle": "subtitles.sfx.damage"
+	},
+	"sfx.death": {
+		"sounds": [
+			"sfx/death"
+		],
+		"subtitle": "subtitles.sfx.death"
+	},
+	"sfx.demo": {
+		"sounds": [
+			"sfx/demo"
+		],
+		"subtitle": "subtitles.sfx.demo"
+	},
+	"sfx.dust": {
+		"sounds": [
+			"sfx/dust"
+		],
+		"subtitle": "subtitles.sfx.dust"
+	},
+	"sfx.encounter": {
+		"sounds": [
+			"sfx/encounter"
+		],
+		"subtitle": "subtitles.sfx.encounter"
+	},
+	"sfx.floweylaugh": {
+		"sounds": [
+			"sfx/floweylaugh"
+		],
+		"subtitle": "subtitles.sfx.floweylaugh"
+	},
+	"sfx.pellet": {
+		"sounds": [
+			"sfx/pellet"
+		],
+		"subtitle": "subtitles.sfx.pellet"
+	},
+	"sfx.heal": {
+		"sounds": [
+			"sfx/heal"
+		],
+		"subtitle": "subtitles.sfx.heal"
+	},
+	"sfx.intronoise": {
+		"sounds": [
+			"sfx/intronoise"
+		],
+		"subtitle": "subtitles.sfx.intronoise"
+	},
+	"sfx.item": {
+		"sounds": [
+			"sfx/item"
+		],
+		"subtitle": "subtitles.sfx.item"
+	},
+	"sfx.levelup": {
+		"sounds": [
+			"sfx/levelup"
+		],
+		"subtitle": "subtitles.sfx.levelup"
+	},
+	"sfx.movemenu": {
+		"sounds": [
+			"sfx/movemenu"
+		],
+		"subtitle": "subtitles.sfx.movemenu"
+	},
+	"sfx.save": {
+		"sounds": [
+			"sfx/save"
+		],
+		"subtitle": "subtitles.sfx.save"
+	},
+	"sfx.select": {
+		"sounds": [
+			"sfx/select"
+		],
+		"subtitle": "subtitles.sfx.select"
+	},
+	"sfx.target": {
+		"sounds": [
+			"sfx/target"
+		],
+		"subtitle": "subtitles.sfx.target"
+	},
+	"sfx.button": {
+		"sounds": [
+			"sfx/button"
+		],
+		"subtitle": "subtitles.sfx.button"
+	},
+	"sfx.slash": {
+		"sounds": [
+			"sfx/slash"
+		],
+		"subtitle": "subtitles.sfx.slash"
+	},
+	"sfx.escaped": {
+		"sounds": [
+			"sfx/escaped"
+		],
+		"subtitle": "subtitles.sfx.escaped"
+	},
+	"sfx.hitenemy": {
+		"sounds": [
+			"sfx/hitenemy"
+		],
+		"subtitle": "subtitles.sfx.hitenemy"
+	},
+	"sfx.hurt_enemy": {
+		"sounds": [
+			"sfx/hurt_enemy"
+		],
+		"subtitle": "subtitles.sfx.hurt_enemy"
+	},
+	"sfx.hurt_small": {
+		"sounds": [
+			"sfx/hurt_small"
+		],
+		"subtitle": "subtitles.sfx.hurt_small"
+	},
+	"sfx.hurt_loox": {
+		"sounds": [
+			"sfx/hurt_loox"
+		],
+		"subtitle": "subtitles.sfx.hurt_loox"
+	},
+	"sfx.fall2": {
+		"sounds": [
+			"sfx/fall2"
+		],
+		"subtitle": "subtitles.sfx.fall2"
+	},
+	"sfx.hero": {
+		"sounds": [
+			"sfx/hero"
+		],
+		"subtitle": "subtitles.sfx.hero"
+	},
+	"sfx.squeak": {
+		"sounds": [
+			"sfx/squeak"
+		],
+		"subtitle": "subtitles.sfx.squeak"
+	},
+	"sfx.dummyescape": {
+		"sounds": [
+			"sfx/dummyescape"
+		],
+		"subtitle": "subtitles.sfx.dummyescape"
+	},
+	"sfx.ring": {
+		"sounds": [
+			"sfx/ring"
+		],
+		"subtitle": "subtitles.sfx.ring"
+	},
+	"sfx.bark": {
+		"sounds": [
+			"sfx/bark"
+		],
+		"subtitle": "subtitles.sfx.bark"
+	},
+	"sfx.wrongvictory": {
+		"sounds": [
+			"sfx/wrongvictory"
+		],
+		"subtitle": "subtitles.sfx.wrongvictory"
+	},
+	"sfx.floweyspeak": {
+		"sounds": [
+			"sfx/floweyspeak"
+		],
+		"subtitle": "subtitles.sfx.floweyspeak"
+	},
+	"sfx.pretoriel": {
+		"sounds": [
+			"sfx/pretoriel"
+		],
+		"subtitle": "subtitles.sfx.pretoriel"
+	},
+	
+	
+	
+	
+	
+	
+	"talking.txt1": {
+		"sounds": [
+			"talking/txt1"
+		],
+		"subtitle": "subtitles.talking.txt1"
+	},
+	"talking.txt2": {
+		"sounds": [
+			"talking/txt2"
+		],
+		"subtitle": "subtitles.talking.txt2"
+	},
+	"talking.toriel": {
+		"sounds": [
+			"talking/txt_tor1"
+		],
+		"subtitle": "subtitles.talking.toriel"
+	},
+	"talking.flowey": {
+		"sounds": [
+			"talking/txt_flowey2"
+		],
+		"subtitle": "subtitles.talking.flowey"
+	},
+	"talking.flowey2": {
+		"sounds": [
+			"talking/txt_flowey1"
+		],
+		"subtitle": "subtitles.talking.flowey2"
+	},
+	"talking.asgore": {
+		"sounds": [
+			"talking/txt_asgore"
+		],
+		"subtitle": "subtitles.talking.asgore"
+	},
+	
+	
+	
+	
+	
+	"dialogue.cutscene1.1": {
+		"sounds": [
+			"dialogue/cutscene1/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.2": {
+		"sounds": [
+			"dialogue/cutscene1/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.3": {
+		"sounds": [
+			"dialogue/cutscene1/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.4": {
+		"sounds": [
+			"dialogue/cutscene1/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.5": {
+		"sounds": [
+			"dialogue/cutscene1/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.6": {
+		"sounds": [
+			"dialogue/cutscene1/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.7": {
+		"sounds": [
+			"dialogue/cutscene1/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.8": {
+		"sounds": [
+			"dialogue/cutscene1/8"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.9": {
+		"sounds": [
+			"dialogue/cutscene1/9"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.10": {
+		"sounds": [
+			"dialogue/cutscene1/10"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.11": {
+		"sounds": [
+			"dialogue/cutscene1/11"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.12": {
+		"sounds": [
+			"dialogue/cutscene1/12"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.13": {
+		"sounds": [
+			"dialogue/cutscene1/13"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.14": {
+		"sounds": [
+			"dialogue/cutscene1/14"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.15": {
+		"sounds": [
+			"dialogue/cutscene1/15"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.16": {
+		"sounds": [
+			"dialogue/cutscene1/16"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.17": {
+		"sounds": [
+			"dialogue/cutscene1/17"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.18": {
+		"sounds": [
+			"dialogue/cutscene1/18"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.19": {
+		"sounds": [
+			"dialogue/cutscene1/19"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.20": {
+		"sounds": [
+			"dialogue/cutscene1/20"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.21": {
+		"sounds": [
+			"dialogue/cutscene1/21"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.22": {
+		"sounds": [
+			"dialogue/cutscene1/22"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.23": {
+		"sounds": [
+			"dialogue/cutscene1/23"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.24": {
+		"sounds": [
+			"dialogue/cutscene1/24"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.25": {
+		"sounds": [
+			"dialogue/cutscene1/25"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.26": {
+		"sounds": [
+			"dialogue/cutscene1/26"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.27": {
+		"sounds": [
+			"dialogue/cutscene1/27"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene1.28": {
+		"sounds": [
+			"dialogue/cutscene1/28"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.29": {
+		"sounds": [
+			"dialogue/cutscene1/29"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.30": {
+		"sounds": [
+			"dialogue/cutscene1/30"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.31": {
+		"sounds": [
+			"dialogue/cutscene1/31"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.32": {
+		"sounds": [
+			"dialogue/cutscene1/32"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.33": {
+		"sounds": [
+			"dialogue/cutscene1/33"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.34": {
+		"sounds": [
+			"dialogue/cutscene1/34"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene1.35": {
+		"sounds": [
+			"dialogue/cutscene1/35"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+
+	"dialogue.cutscene2.1": {
+		"sounds": [
+			"dialogue/cutscene2/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene2.2": {
+		"sounds": [
+			"dialogue/cutscene2/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene2.3": {
+		"sounds": [
+			"dialogue/cutscene2/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene2.4": {
+		"sounds": [
+			"dialogue/cutscene2/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene2.5": {
+		"sounds": [
+			"dialogue/cutscene2/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene2.6": {
+		"sounds": [
+			"dialogue/cutscene2/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene2.7": {
+		"sounds": [
+			"dialogue/cutscene2/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene3.1": {
+		"sounds": [
+			"dialogue/cutscene3/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene4.1": {
+		"sounds": [
+			"dialogue/cutscene4/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene4.2": {
+		"sounds": [
+			"dialogue/cutscene4/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene4.3": {
+		"sounds": [
+			"dialogue/cutscene4/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene6.1": {
+		"sounds": [
+			"dialogue/cutscene6/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene6.2": {
+		"sounds": [
+			"dialogue/cutscene6/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene6.3": {
+		"sounds": [
+			"dialogue/cutscene6/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene6.4": {
+		"sounds": [
+			"dialogue/cutscene6/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene6.5": {
+		"sounds": [
+			"dialogue/cutscene6/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene6.6": {
+		"sounds": [
+			"dialogue/cutscene6/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene7.1": {
+		"sounds": [
+			"dialogue/cutscene7/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene7.2": {
+		"sounds": [
+			"dialogue/cutscene7/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene7.3": {
+		"sounds": [
+			"dialogue/cutscene7/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene7.4": {
+		"sounds": [
+			"dialogue/cutscene7/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene7.5": {
+		"sounds": [
+			"dialogue/cutscene7/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+
+	"dialogue.cutscene8.1": {
+		"sounds": [
+			"dialogue/cutscene8/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.2": {
+		"sounds": [
+			"dialogue/cutscene8/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.3": {
+		"sounds": [
+			"dialogue/cutscene8/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.4": {
+		"sounds": [
+			"dialogue/cutscene8/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.5": {
+		"sounds": [
+			"dialogue/cutscene8/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.6": {
+		"sounds": [
+			"dialogue/cutscene8/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.7": {
+		"sounds": [
+			"dialogue/cutscene8/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.8": {
+		"sounds": [
+			"dialogue/cutscene8/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.9": {
+		"sounds": [
+			"dialogue/cutscene8/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.10": {
+		"sounds": [
+			"dialogue/cutscene8/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.11": {
+		"sounds": [
+			"dialogue/cutscene8/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.12": {
+		"sounds": [
+			"dialogue/cutscene8/12"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.13": {
+		"sounds": [
+			"dialogue/cutscene8/13"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.14": {
+		"sounds": [
+			"dialogue/cutscene8/14"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.15": {
+		"sounds": [
+			"dialogue/cutscene8/15"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.16": {
+		"sounds": [
+			"dialogue/cutscene8/16"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.17": {
+		"sounds": [
+			"dialogue/cutscene8/17"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.18": {
+		"sounds": [
+			"dialogue/cutscene8/18"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.19": {
+		"sounds": [
+			"dialogue/cutscene8/19"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.20": {
+		"sounds": [
+			"dialogue/cutscene8/20"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.21": {
+		"sounds": [
+			"dialogue/cutscene8/21"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.22": {
+		"sounds": [
+			"dialogue/cutscene8/22"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.23": {
+		"sounds": [
+			"dialogue/cutscene8/23"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.24": {
+		"sounds": [
+			"dialogue/cutscene8/24"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene8.25": {
+		"sounds": [
+			"dialogue/cutscene8/25"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene9.1": {
+		"sounds": [
+			"dialogue/cutscene9/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene9.2": {
+		"sounds": [
+			"dialogue/cutscene9/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene9.3": {
+		"sounds": [
+			"dialogue/cutscene9/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene9.4": {
+		"sounds": [
+			"dialogue/cutscene9/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene9.5": {
+		"sounds": [
+			"dialogue/cutscene9/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene10.1": {
+		"sounds": [
+			"dialogue/cutscene10/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.2": {
+		"sounds": [
+			"dialogue/cutscene10/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.3": {
+		"sounds": [
+			"dialogue/cutscene10/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.4": {
+		"sounds": [
+			"dialogue/cutscene10/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.5": {
+		"sounds": [
+			"dialogue/cutscene10/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.6": {
+		"sounds": [
+			"dialogue/cutscene10/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.7": {
+		"sounds": [
+			"dialogue/cutscene10/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.8": {
+		"sounds": [
+			"dialogue/cutscene10/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.9": {
+		"sounds": [
+			"dialogue/cutscene10/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.10": {
+		"sounds": [
+			"dialogue/cutscene10/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.11": {
+		"sounds": [
+			"dialogue/cutscene10/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.12": {
+		"sounds": [
+			"dialogue/cutscene10/12"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.13": {
+		"sounds": [
+			"dialogue/cutscene10/13"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.14": {
+		"sounds": [
+			"dialogue/cutscene10/14"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene10.15": {
+		"sounds": [
+			"dialogue/cutscene10/15"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene11.1": {
+		"sounds": [
+			"dialogue/cutscene11/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.2": {
+		"sounds": [
+			"dialogue/cutscene11/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.3": {
+		"sounds": [
+			"dialogue/cutscene11/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.4": {
+		"sounds": [
+			"dialogue/cutscene11/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.5": {
+		"sounds": [
+			"dialogue/cutscene11/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.6": {
+		"sounds": [
+			"dialogue/cutscene11/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.7": {
+		"sounds": [
+			"dialogue/cutscene11/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.8": {
+		"sounds": [
+			"dialogue/cutscene11/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.9": {
+		"sounds": [
+			"dialogue/cutscene11/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.10": {
+		"sounds": [
+			"dialogue/cutscene11/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene11.11": {
+		"sounds": [
+			"dialogue/cutscene11/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene12.1": {
+		"sounds": [
+			"dialogue/cutscene12/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.2": {
+		"sounds": [
+			"dialogue/cutscene12/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.3": {
+		"sounds": [
+			"dialogue/cutscene12/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.4": {
+		"sounds": [
+			"dialogue/cutscene12/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.5": {
+		"sounds": [
+			"dialogue/cutscene12/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.6": {
+		"sounds": [
+			"dialogue/cutscene12/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.7": {
+		"sounds": [
+			"dialogue/cutscene12/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.8": {
+		"sounds": [
+			"dialogue/cutscene12/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.9": {
+		"sounds": [
+			"dialogue/cutscene12/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.10": {
+		"sounds": [
+			"dialogue/cutscene12/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.11": {
+		"sounds": [
+			"dialogue/cutscene12/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.12": {
+		"sounds": [
+			"dialogue/cutscene12/12"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.13": {
+		"sounds": [
+			"dialogue/cutscene12/13"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.14": {
+		"sounds": [
+			"dialogue/cutscene12/14"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.15": {
+		"sounds": [
+			"dialogue/cutscene12/15"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.16": {
+		"sounds": [
+			"dialogue/cutscene12/16"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.17": {
+		"sounds": [
+			"dialogue/cutscene12/17"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.18": {
+		"sounds": [
+			"dialogue/cutscene12/18"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.19": {
+		"sounds": [
+			"dialogue/cutscene12/19"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.20": {
+		"sounds": [
+			"dialogue/cutscene12/20"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.21": {
+		"sounds": [
+			"dialogue/cutscene12/21"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.22": {
+		"sounds": [
+			"dialogue/cutscene12/22"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.23": {
+		"sounds": [
+			"dialogue/cutscene12/23"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.24": {
+		"sounds": [
+			"dialogue/cutscene12/24"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.25": {
+		"sounds": [
+			"dialogue/cutscene12/25"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.26": {
+		"sounds": [
+			"dialogue/cutscene12/26"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene12.27": {
+		"sounds": [
+			"dialogue/cutscene12/27"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene13.1": {
+		"sounds": [
+			"dialogue/cutscene13/1"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.2": {
+		"sounds": [
+			"dialogue/cutscene13/2"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.5": {
+		"sounds": [
+			"dialogue/cutscene13/5"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.6": {
+		"sounds": [
+			"dialogue/cutscene13/6"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.7": {
+		"sounds": [
+			"dialogue/cutscene13/7"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.8": {
+		"sounds": [
+			"dialogue/cutscene13/8"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.9": {
+		"sounds": [
+			"dialogue/cutscene13/9"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.10": {
+		"sounds": [
+			"dialogue/cutscene13/10"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.11": {
+		"sounds": [
+			"dialogue/cutscene13/11"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	"dialogue.cutscene13.12": {
+		"sounds": [
+			"dialogue/cutscene13/12"
+		],
+		"subtitle": "subtitles.dialogue.napstablook_talking"
+	},
+	
+	"dialogue.cutscene14.1": {
+		"sounds": [
+			"dialogue/cutscene14/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene14.2": {
+		"sounds": [
+			"dialogue/cutscene14/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene14.3": {
+		"sounds": [
+			"dialogue/cutscene14/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene14.4": {
+		"sounds": [
+			"dialogue/cutscene14/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene14.5": {
+		"sounds": [
+			"dialogue/cutscene14/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene14.6": {
+		"sounds": [
+			"dialogue/cutscene14/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene14.7": {
+		"sounds": [
+			"dialogue/cutscene14/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene17.1": {
+		"sounds": [
+			"dialogue/cutscene17/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.2": {
+		"sounds": [
+			"dialogue/cutscene17/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.3": {
+		"sounds": [
+			"dialogue/cutscene17/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.4": {
+		"sounds": [
+			"dialogue/cutscene17/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.5": {
+		"sounds": [
+			"dialogue/cutscene17/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.6": {
+		"sounds": [
+			"dialogue/cutscene17/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.7": {
+		"sounds": [
+			"dialogue/cutscene17/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.8": {
+		"sounds": [
+			"dialogue/cutscene17/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.9": {
+		"sounds": [
+			"dialogue/cutscene17/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.10": {
+		"sounds": [
+			"dialogue/cutscene17/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.11": {
+		"sounds": [
+			"dialogue/cutscene17/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.12": {
+		"sounds": [
+			"dialogue/cutscene17/12"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.13": {
+		"sounds": [
+			"dialogue/cutscene17/13"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.14": {
+		"sounds": [
+			"dialogue/cutscene17/14"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.15": {
+		"sounds": [
+			"dialogue/cutscene17/15"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.16": {
+		"sounds": [
+			"dialogue/cutscene17/16"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.17": {
+		"sounds": [
+			"dialogue/cutscene17/17"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene17.18": {
+		"sounds": [
+			"dialogue/cutscene17/18"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene18.1": {
+		"sounds": [
+			"dialogue/cutscene18/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene18.2": {
+		"sounds": [
+			"dialogue/cutscene18/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene18.3": {
+		"sounds": [
+			"dialogue/cutscene18/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene18.4": {
+		"sounds": [
+			"dialogue/cutscene18/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene18.5": {
+		"sounds": [
+			"dialogue/cutscene18/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene18.6": {
+		"sounds": [
+			"dialogue/cutscene18/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.cutscene19.1": {
+		"sounds": [
+			"dialogue/cutscene19/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.2": {
+		"sounds": [
+			"dialogue/cutscene19/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.3": {
+		"sounds": [
+			"dialogue/cutscene19/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.4": {
+		"sounds": [
+			"dialogue/cutscene19/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.5": {
+		"sounds": [
+			"dialogue/cutscene19/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.6": {
+		"sounds": [
+			"dialogue/cutscene19/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.7": {
+		"sounds": [
+			"dialogue/cutscene19/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.8": {
+		"sounds": [
+			"dialogue/cutscene19/8"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.9": {
+		"sounds": [
+			"dialogue/cutscene19/9"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.10": {
+		"sounds": [
+			"dialogue/cutscene19/10"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.11": {
+		"sounds": [
+			"dialogue/cutscene19/11"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.12": {
+		"sounds": [
+			"dialogue/cutscene19/12"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.13": {
+		"sounds": [
+			"dialogue/cutscene19/13"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.14": {
+		"sounds": [
+			"dialogue/cutscene19/14"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.15": {
+		"sounds": [
+			"dialogue/cutscene19/15"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.16": {
+		"sounds": [
+			"dialogue/cutscene19/16"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.17": {
+		"sounds": [
+			"dialogue/cutscene19/17"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene19.18": {
+		"sounds": [
+			"dialogue/cutscene19/18"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene20.1": {
+		"sounds": [
+			"dialogue/cutscene20/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.2": {
+		"sounds": [
+			"dialogue/cutscene20/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.3": {
+		"sounds": [
+			"dialogue/cutscene20/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.4": {
+		"sounds": [
+			"dialogue/cutscene20/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.5": {
+		"sounds": [
+			"dialogue/cutscene20/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.6": {
+		"sounds": [
+			"dialogue/cutscene20/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.7": {
+		"sounds": [
+			"dialogue/cutscene20/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.8": {
+		"sounds": [
+			"dialogue/cutscene20/8"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.9": {
+		"sounds": [
+			"dialogue/cutscene20/9"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene20.10": {
+		"sounds": [
+			"dialogue/cutscene20/10"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene21.1": {
+		"sounds": [
+			"dialogue/cutscene21/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene21.2": {
+		"sounds": [
+			"dialogue/cutscene21/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene21.3": {
+		"sounds": [
+			"dialogue/cutscene21/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene21.4": {
+		"sounds": [
+			"dialogue/cutscene21/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene21.5": {
+		"sounds": [
+			"dialogue/cutscene21/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene21.6": {
+		"sounds": [
+			"dialogue/cutscene21/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene21.7": {
+		"sounds": [
+			"dialogue/cutscene21/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene22.1": {
+		"sounds": [
+			"dialogue/cutscene22/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.2": {
+		"sounds": [
+			"dialogue/cutscene22/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.3": {
+		"sounds": [
+			"dialogue/cutscene22/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.4": {
+		"sounds": [
+			"dialogue/cutscene22/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.5": {
+		"sounds": [
+			"dialogue/cutscene22/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.6": {
+		"sounds": [
+			"dialogue/cutscene22/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.7": {
+		"sounds": [
+			"dialogue/cutscene22/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.8": {
+		"sounds": [
+			"dialogue/cutscene22/8"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.9": {
+		"sounds": [
+			"dialogue/cutscene22/9"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.10": {
+		"sounds": [
+			"dialogue/cutscene22/10"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.11": {
+		"sounds": [
+			"dialogue/cutscene22/11"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.12": {
+		"sounds": [
+			"dialogue/cutscene22/12"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.13": {
+		"sounds": [
+			"dialogue/cutscene22/13"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.14": {
+		"sounds": [
+			"dialogue/cutscene22/14"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.15": {
+		"sounds": [
+			"dialogue/cutscene22/15"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.16": {
+		"sounds": [
+			"dialogue/cutscene22/16"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.17": {
+		"sounds": [
+			"dialogue/cutscene22/17"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene22.18": {
+		"sounds": [
+			"dialogue/cutscene22/18"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene23.1": {
+		"sounds": [
+			"dialogue/cutscene23/1"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.2": {
+		"sounds": [
+			"dialogue/cutscene23/2"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.3": {
+		"sounds": [
+			"dialogue/cutscene23/3"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.4": {
+		"sounds": [
+			"dialogue/cutscene23/4"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.5": {
+		"sounds": [
+			"dialogue/cutscene23/5"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.6": {
+		"sounds": [
+			"dialogue/cutscene23/6"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.7": {
+		"sounds": [
+			"dialogue/cutscene23/7"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.8": {
+		"sounds": [
+			"dialogue/cutscene23/8"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.9": {
+		"sounds": [
+			"dialogue/cutscene23/9"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.10": {
+		"sounds": [
+			"dialogue/cutscene23/10"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.11": {
+		"sounds": [
+			"dialogue/cutscene23/11"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.12": {
+		"sounds": [
+			"dialogue/cutscene23/12"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.13": {
+		"sounds": [
+			"dialogue/cutscene23/13"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.14": {
+		"sounds": [
+			"dialogue/cutscene23/14"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.15": {
+		"sounds": [
+			"dialogue/cutscene23/15"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.16": {
+		"sounds": [
+			"dialogue/cutscene23/16"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.17": {
+		"sounds": [
+			"dialogue/cutscene23/17"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.18": {
+		"sounds": [
+			"dialogue/cutscene23/18"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.19": {
+		"sounds": [
+			"dialogue/cutscene23/19"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.20": {
+		"sounds": [
+			"dialogue/cutscene23/20"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.21": {
+		"sounds": [
+			"dialogue/cutscene23/21"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.22": {
+		"sounds": [
+			"dialogue/cutscene23/22"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	"dialogue.cutscene23.23": {
+		"sounds": [
+			"dialogue/cutscene23/23"
+		],
+		"subtitle": "subtitles.dialogue.flowey_talking"
+	},
+	
+	"dialogue.cutscene24.1": {
+		"sounds": [
+			"dialogue/cutscene24/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.2": {
+		"sounds": [
+			"dialogue/cutscene24/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.3": {
+		"sounds": [
+			"dialogue/cutscene24/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.4": {
+		"sounds": [
+			"dialogue/cutscene24/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.5": {
+		"sounds": [
+			"dialogue/cutscene24/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.6": {
+		"sounds": [
+			"dialogue/cutscene24/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.7": {
+		"sounds": [
+			"dialogue/cutscene24/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.8": {
+		"sounds": [
+			"dialogue/cutscene24/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.9": {
+		"sounds": [
+			"dialogue/cutscene24/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.10": {
+		"sounds": [
+			"dialogue/cutscene24/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.11": {
+		"sounds": [
+			"dialogue/cutscene24/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.12": {
+		"sounds": [
+			"dialogue/cutscene24/12"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.13": {
+		"sounds": [
+			"dialogue/cutscene24/13"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.14": {
+		"sounds": [
+			"dialogue/cutscene24/14"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.15": {
+		"sounds": [
+			"dialogue/cutscene24/15"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.16": {
+		"sounds": [
+			"dialogue/cutscene24/16"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.17": {
+		"sounds": [
+			"dialogue/cutscene24/17"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.18": {
+		"sounds": [
+			"dialogue/cutscene24/18"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.19": {
+		"sounds": [
+			"dialogue/cutscene24/19"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.20": {
+		"sounds": [
+			"dialogue/cutscene24/20"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.21": {
+		"sounds": [
+			"dialogue/cutscene24/21"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.22": {
+		"sounds": [
+			"dialogue/cutscene24/22"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.23": {
+		"sounds": [
+			"dialogue/cutscene24/23"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.24": {
+		"sounds": [
+			"dialogue/cutscene24/24"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.25": {
+		"sounds": [
+			"dialogue/cutscene24/25"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.26": {
+		"sounds": [
+			"dialogue/cutscene24/26"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.27": {
+		"sounds": [
+			"dialogue/cutscene24/27"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.cutscene24.28": {
+		"sounds": [
+			"dialogue/cutscene24/28"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.toriel_calls.hello.1": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.2": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.3": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.4": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.5": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.6": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.7": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.8": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.9": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/9"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.10": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/10"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.11": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/11"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.12": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/12"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.13": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/13"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.14": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/14"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.15": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/15"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.16": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/16"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.17": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/17"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.18": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/18"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.hello.19": {
+		"sounds": [
+			"dialogue/toriel_calls/hello/19"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.toriel_calls.about.1": {
+		"sounds": [
+			"dialogue/toriel_calls/about/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.about.2": {
+		"sounds": [
+			"dialogue/toriel_calls/about/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.about.3": {
+		"sounds": [
+			"dialogue/toriel_calls/about/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.about.4": {
+		"sounds": [
+			"dialogue/toriel_calls/about/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.toriel_calls.mom.1": {
+		"sounds": [
+			"dialogue/toriel_calls/mom/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.mom.2": {
+		"sounds": [
+			"dialogue/toriel_calls/mom/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.mom.3": {
+		"sounds": [
+			"dialogue/toriel_calls/mom/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.mom.4": {
+		"sounds": [
+			"dialogue/toriel_calls/mom/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.mom.5": {
+		"sounds": [
+			"dialogue/toriel_calls/mom/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.mom.6": {
+		"sounds": [
+			"dialogue/toriel_calls/mom/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.toriel_calls.flirt.1": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.2": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.3": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.4": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.5": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/5"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.6": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/6"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.7": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/7"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.flirt.8": {
+		"sounds": [
+			"dialogue/toriel_calls/flirt/8"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.toriel_calls.puzzle.1": {
+		"sounds": [
+			"dialogue/toriel_calls/puzzle/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.puzzle.2": {
+		"sounds": [
+			"dialogue/toriel_calls/puzzle/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.puzzle.3": {
+		"sounds": [
+			"dialogue/toriel_calls/puzzle/3"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.puzzle.4": {
+		"sounds": [
+			"dialogue/toriel_calls/puzzle/4"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	
+	"dialogue.toriel_calls.home.1": {
+		"sounds": [
+			"dialogue/toriel_calls/home/1"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	},
+	"dialogue.toriel_calls.home.2": {
+		"sounds": [
+			"dialogue/toriel_calls/home/2"
+		],
+		"subtitle": "subtitles.dialogue.toriel_talking"
+	}
+	
+}

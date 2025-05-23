@@ -1,0 +1,23 @@
+{
+	"credit": "Made by Clouser Studios",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/props/table_and_cheese",
+		"particle": "block/props/table_and_cheese"
+	},
+	"elements": [
+		{
+			"from": [6, 9, 10],
+			"to": [10, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"east": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"south": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"west": {"uv": [6.5, 0, 7.5, 0.5], "texture": "#0"},
+				"up": {"uv": [6.5, 1, 8, 2], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [6, 0, 7.5, 1], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}

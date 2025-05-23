@@ -1,0 +1,5 @@
+{
+    // Valid: [Google, LibreTranslate, Noop]
+    translationService: "Google",
+    libreTranslateHost: null
+}

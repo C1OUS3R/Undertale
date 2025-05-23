@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/battle/alert.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE000"]
+        }
+    ]
+}

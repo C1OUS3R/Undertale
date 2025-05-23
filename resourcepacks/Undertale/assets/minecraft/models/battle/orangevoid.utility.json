@@ -1,0 +1,50 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [16, 16],
+	"textures": {
+		"0": "minecraft:block/orange",
+		"particle": "minecraft:block/orange"
+	},
+	"elements": [
+		{
+			"uuid": "fa2b72d6-235c-fc57-b4e3-a09bb37d4f6c",
+			"from": [4, 6, 4],
+			"to": [-4, -2, -4],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [8, 6, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0.25, 0.25, 0.75, 0.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [1.25, 0.25, 1.75, 0.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2.25, 0.25, 2.75, 0.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.25, 0.25, 3.75, 0.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [4.25, 0.25, 4.75, 0.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [5.25, 0.25, 5.75, 0.75],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"elements": ["fa2b72d6-235c-fc57-b4e3-a09bb37d4f6c"]
+	},
+	"display": {}
+}

@@ -1,0 +1,38 @@
+{
+    "display": {
+        "title": {
+            "text": "How was the fall"
+        },
+        "description": {
+            "text": "Fail the flower puzzle 10 or more times."
+        },
+        "icon": {
+            "id": "netherite_block",
+            "components": {
+                "custom_model_data": 38,
+                "utility:utility_animation": {
+                    "current_animation": "ground",
+                    "start_time": 44373318
+                } 
+            }
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "a": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "flags": {
+                        "is_on_fire": true
+                    }
+                }
+            }
+        }
+    },
+    "parent": "achievements:ruins"
+}

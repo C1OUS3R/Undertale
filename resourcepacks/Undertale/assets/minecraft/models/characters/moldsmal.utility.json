@@ -1,0 +1,388 @@
+{
+	"__comment": "Created in Blockbench, exported via Utility Engine. Will not work in Vanilla Minecraft!",
+	"format_version": "0.0.1",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "minecraft:block/enemy/moldsmall"
+	},
+	"elements": [
+		{
+			"uuid": "647f81a1-8c78-645e-caf8-72fe646374ab",
+			"from": [-6, 3, -6],
+			"to": [6, 12, 6],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 3, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 4, 8, 7.33333],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 4, 4, 7.33333],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12, 4, 16, 7.33333],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8, 4, 12, 7.33333],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8, 4, 4, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [12, 0, 8, 4],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "e18b5f44-0231-7bd3-b2fe-b590b9a093d6",
+			"from": [-7, 2.34808, -7.73648],
+			"to": [7, 12.34808, -7.73648],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 2.34808, -7.73648]
+			},
+			"faces": {
+				"north": {
+					"uv": [8.66667, 7.66667, 4, 11],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8.66667, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8.66667, 7.66667, 4, 11],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [13.33333, 7.66667, 13.33333, 11],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8.66667, 3, 8.66667, 7.66667],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8.66667, 7.66667, 8.66667, 3],
+					"rotation": 90,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "cefa62d2-6136-bb3b-a3da-09df43bc8b25",
+			"from": [-7, 2.5, 6],
+			"to": [7, 12.5, 6],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [0, 2.5, 6]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8.66667, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [4, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [13.33333, 7.66667, 13.33333, 11],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8.66667, 3, 8.66667, 7.66667],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8.66667, 7.66667, 8.66667, 3],
+					"rotation": 90,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "1398481e-209a-5e8f-904b-b30701597451",
+			"from": [-6, 2.5, -7],
+			"to": [-6, 12.5, 7],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [-6, 2.5, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [13.33333, 7.66667, 13.33333, 11],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8.66667, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [4, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8.66667, 3, 8.66667, 7.66667],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8.66667, 7.66667, 8.66667, 3],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"uuid": "ff9617fb-8277-0514-c2b8-af376eb27ece",
+			"from": [6, 2.5, -7],
+			"to": [6, 12.5, 7],
+			"rotation": {
+				"euler": [0, 0, 0],
+				"origin": [6, 2.5, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [13.33333, 7.66667, 13.33333, 11],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8.66667, 7.66667, 4, 11],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8.66667, 7.66667, 8.66667, 11],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8.66667, 7.66667, 4, 11],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8.66667, 3, 8.66667, 7.66667],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8.66667, 7.66667, 8.66667, 3],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"structure": {
+		"bones": [
+			{
+				"name": "moldsmall",
+				"rotation": {
+					"euler": [-17.5, 0, 0],
+					"origin": [0, 3, 0]
+				},
+				"children": {
+					"elements": ["647f81a1-8c78-645e-caf8-72fe646374ab"],
+					"bones": [
+						{
+							"name": "bone",
+							"rotation": {
+								"euler": [10, 0, 0],
+								"origin": [0, 2.5, -6]
+							},
+							"children": {
+								"elements": ["e18b5f44-0231-7bd3-b2fe-b590b9a093d6"]
+							}
+						},
+						{
+							"name": "bone2",
+							"rotation": {
+								"euler": [-10, 0, 0],
+								"origin": [0, 12.5, 6]
+							},
+							"children": {
+								"elements": ["cefa62d2-6136-bb3b-a3da-09df43bc8b25"]
+							}
+						},
+						{
+							"name": "bone3",
+							"rotation": {
+								"euler": [0, 0, -10],
+								"origin": [-6, 12.5, 0]
+							},
+							"children": {
+								"elements": ["1398481e-209a-5e8f-904b-b30701597451"]
+							}
+						},
+						{
+							"name": "bone4",
+							"rotation": {
+								"euler": [0, 0, 10],
+								"origin": [6, 12.5, 0]
+							},
+							"children": {
+								"elements": ["ff9617fb-8277-0514-c2b8-af376eb27ece"]
+							}
+						}
+					]
+				}
+			}
+		]
+	},
+	"display": {},
+	"animations": [
+		{
+			"name": "loop",
+			"animation_length": 2,
+			"loop_mode": "loop",
+			"loop_delay": "0",
+			"bones": {
+				"moldsmall": {
+					"scale": {
+						"0.0": {
+							"post": [0.9, 1.1, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"0.1667": {
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"0.8333": {
+							"post": [1, 0.88, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [1.1, 0.8656, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"1.1667": {
+							"post": [1, 0.88, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"1.8333": {
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0.9, 1.1, 1],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		},
+		{
+			"name": "damage",
+			"animation_length": 0.7083,
+			"loop_mode": "hold",
+			"loop_delay": "0",
+			"bones": {
+				"moldsmall": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.7083": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"position": {
+						"0.0": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0417": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0833": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.125": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.1667": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.2083": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.25": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.2917": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.3333": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.375": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4167": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4583": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5417": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5833": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.7083": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"scale": {
+						"0.0": {
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"0.3333": {
+							"post": [1.2, 0.8, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"0.7083": {
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	]
+}
